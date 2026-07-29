@@ -1,3 +1,5 @@
+---[Mine A Montain beta test]
+
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local RunService = game:GetService("RunService")
@@ -221,8 +223,8 @@ Library.ForceCheckbox = false
 Library.ShowToggleFrameInKeybinds = true
 
 local Window = Library:CreateWindow({
-	Title = "Mine a Mountain",
-	Footer = "Mine a Mountain",
+	Title = "Himang",
+	Footer = "Titid",
 	AutoShow = true,
 	NotifySide = "Right",
 	ShowCustomCursor = false,
